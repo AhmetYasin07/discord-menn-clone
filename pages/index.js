@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        
+        <h1> ADAM OL ADAM</h1>
       </main>
 
       <footer className={styles.footer}>
